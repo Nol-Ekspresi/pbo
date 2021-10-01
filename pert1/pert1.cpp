@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cin.get();
+    cout<<"Hallo Dunia!!\n";
     return 0;
 }
